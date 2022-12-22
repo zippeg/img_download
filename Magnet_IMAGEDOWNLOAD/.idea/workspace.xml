@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Magnet_IMAGEDOWNLOAD:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$MAVAEN_HOME$" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IMS2UOjV1tjyD9Hruy6niQVllk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../JDK/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="构件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42528737" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\app\Magnet_IMAGEDOWNLOAD\target" />
+      <recent name="D:\app\Magnet_IMAGEDOWNLOAD\src\main\resources" />
+      <recent name="D:\app\Magnet_IMAGEDOWNLOAD\target\maven-status" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR 应用程序.Magnet_IMAGEDOWNLOAD.jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="core.fx.Main" />
+      <module name="Magnet_IMAGEDOWNLOAD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="Magnet_IMAGEDOWNLOAD" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GB18030" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test2" />
+      <module name="Magnet_IMAGEDOWNLOAD" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GB18030" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Magnet_IMAGEDOWNLOAD-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Magnet_IMAGEDOWNLOAD-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Magnet_IMAGEDOWNLOAD.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Magnet_IMAGEDOWNLOAD_jar/Magnet_IMAGEDOWNLOAD.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR 应用程序.Magnet_IMAGEDOWNLOAD-1.0-SNAPSHOT.jar" />
+      <item itemvalue="JAR 应用程序.Magnet_IMAGEDOWNLOAD.jar" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.Test2" />
+      <item itemvalue="应用程序.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR 应用程序.Magnet_IMAGEDOWNLOAD.jar" />
+        <item itemvalue="JAR 应用程序.Magnet_IMAGEDOWNLOAD-1.0-SNAPSHOT.jar" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="" />
+      <created>1669989751966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669989751966</updated>
+      <workItem from="1669989762332" duration="104000" />
+      <workItem from="1669997102148" duration="94000" />
+      <workItem from="1669997212554" duration="1191000" />
+      <workItem from="1670154741635" duration="2923000" />
+      <workItem from="1670157697169" duration="1768000" />
+      <workItem from="1670247906534" duration="809000" />
+      <workItem from="1670253544655" duration="2724000" />
+      <workItem from="1670290557237" duration="772000" />
+      <workItem from="1670320377596" duration="1477000" />
+      <workItem from="1670376725084" duration="1334000" />
+      <workItem from="1670378799853" duration="1442000" />
+      <workItem from="1670516932196" duration="1698000" />
+      <workItem from="1670559255243" duration="381000" />
+      <workItem from="1670768920987" duration="317000" />
+      <workItem from="1671457342954" duration="3311000" />
+      <workItem from="1671507630647" duration="1205000" />
+      <workItem from="1671530978529" duration="3654000" />
+      <workItem from="1671535590026" duration="2710000" />
+      <workItem from="1671606560641" duration="297000" />
+      <workItem from="1671616037485" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="135" key="#Main" timestamp="1671535878862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="135" key="#Main/0.0.1920.1040@0.0.1920.1040" timestamp="1671535878862" />
+    <state x="93" y="98" key="#Project_Structure" timestamp="1669997107579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1669997107579" />
+    <state x="213" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671536912802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="213" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1671536912802" />
+    <state x="684" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1671537793104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1671537793104" />
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1670321426868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1670321426868" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1671531109363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1671531109363" />
+    <state x="457" y="379" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1671538238738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="379" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1671538238738" />
+    <state x="468" y="185" key="FileChooserDialogImpl" timestamp="1671538271579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="185" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1671538271579" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1671538332095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332095" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1671538332095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332095" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state width="1877" height="285" key="GridCell.Tab.1.bottom" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state width="1877" height="285" key="GridCell.Tab.1.center" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state width="1877" height="285" key="GridCell.Tab.1.left" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state width="1877" height="285" key="GridCell.Tab.1.right" timestamp="1671538332096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1671538332096" />
+    <state x="207" y="164" key="SettingsEditor" timestamp="1671538283694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="207" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1671538283694" />
+    <state x="690" y="268" key="extract.method.dialog" timestamp="1671459631684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1671459631684" />
+    <state x="490" y="180" key="new project wizard" timestamp="1671606854464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1671606854464" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1671459605827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1671459605827" />
+  </component>
+</project>
