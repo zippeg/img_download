@@ -1,5 +1,5 @@
 package core.Image;
-import org.apache.http.client.HttpClient;
+import lombok.Data;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -9,10 +9,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import sun.misc.IOUtils;
-
 import java.io.*;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.*;
@@ -20,11 +17,8 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * this class is a util class for https://meirentu.cc
- * author email: 2717681885@qq.com
- * by author Apeng
- */
+
+@Data
 public class HttpCore {
     /**
      *
@@ -41,7 +35,6 @@ public class HttpCore {
     }
 
     public    void downloadImage(String url, short type){
-        CloseableHttpClient httpClient = HttpClients.createDefault();
         switch (type){
             case 0:
                 httpGetDownload(url);
@@ -59,6 +52,8 @@ public class HttpCore {
      */
     private  void httpGetDownload(String url) {
         HttpGet httpGet = new HttpGet(url);
+        httpGet.setHeader("Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9");
+        httpGet.setHeader("Referer","http://meirentu.cc/model/%E7%8E%8B%E9%A6%A8%E7%91%B6.html");
         try {
             CloseableHttpResponse httpResponse = httpClient.execute(httpGet);
             if (httpResponse.getStatusLine().getStatusCode()==200) {//请求成功
@@ -146,6 +141,7 @@ public class HttpCore {
         String baseUrl="https://meirentu.cc/pic/";
         String tailUrl=".html";
         int maxPage=0;
+        url=url.replaceAll("http:","https:");
         String id = url.replaceAll(baseUrl, "").replaceAll(tailUrl, "");
         //获取最大页数
         try {
