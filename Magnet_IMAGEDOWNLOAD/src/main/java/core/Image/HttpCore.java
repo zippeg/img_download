@@ -35,7 +35,7 @@ public class HttpCore {
         if (!file.exists()) {
             file.mkdir();
         }
-        path=file.getAbsolutePath();
+        path=file.getAbsolutePath()+"\\";
     }
 
     public    void downloadImage(String url, short type){
