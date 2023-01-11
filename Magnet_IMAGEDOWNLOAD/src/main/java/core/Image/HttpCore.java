@@ -31,7 +31,11 @@ public class HttpCore {
     public HttpCore() {
         httpClient=HttpClients.createDefault();
         threadPool=Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
-        path="C:\\Users\\Apeng\\Desktop\\下载图片\\";
+        File file = new File("C:\\下载图片");
+        if (!file.exists()) {
+            file.mkdir();
+        }
+        path=file.getAbsolutePath();
     }
 
     public    void downloadImage(String url, short type){

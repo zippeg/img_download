@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="" />
+    <list default="true" id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/Image/HttpCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/Image/HttpCore.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2IMS2UOjV1tjyD9Hruy6niQVllk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -158,6 +164,7 @@
       <workItem from="1671535590026" duration="2710000" />
       <workItem from="1671606560641" duration="297000" />
       <workItem from="1671616037485" duration="19000" />
+      <workItem from="1673407102766" duration="228000" />
     </task>
     <servers />
   </component>
