@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/Image/HttpCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/Image/HttpCore.java" afterDir="false" />
-    </list>
+    <list default="true" id="71d95749-b83a-4d19-98a2-fc374c66f7bf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +163,7 @@
       <workItem from="1671606560641" duration="297000" />
       <workItem from="1671616037485" duration="19000" />
       <workItem from="1673407102766" duration="228000" />
+      <workItem from="1673407456088" duration="20000" />
     </task>
     <servers />
   </component>
@@ -200,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="457" y="379" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1671538238738" />
-    <state x="468" y="185" key="FileChooserDialogImpl" timestamp="1671538271579">
+    <state x="468" y="185" key="FileChooserDialogImpl" timestamp="1673407470460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="468" y="185" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1671538271579" />
+    <state x="468" y="185" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1673407470460" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1671538332096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
